@@ -18,7 +18,7 @@ from string import *
 dateti=str(datetime.now()).split(" ")[0]
 os.system('espeak -a 300 " Welcome,   to,  The,  blackhacher,   Tool"')
 
-os.system('espeak -a 300" TOOL OWNER IS AJMIR HOSSAIN)
+os.system('espeak -a 300" TOOL OWNER IS Ajmir Hossain')
 
 CorrectUsername = 'BLACK'
 key = 'XNXX'
